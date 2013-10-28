@@ -6,5 +6,10 @@ class Andy
 	{
 		echo "create andy";
 	}
+
+	public function showAndy()
+	{
+		echo "show andy";
+	}
 }
 ?>
